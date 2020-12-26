@@ -19,6 +19,19 @@
 - Java Embedded Python (running Python code inside the Java application), 
 - integrated Python in Scala code, ...
 
+**Keyword ranking:**
+
+![system](/images/system-7.jpg)
+
+**Sentiment data Deep Learning:**
+
+![system](/images/system-9.jpg)
+
+**Sentiment text Deep Learning:**
+
+![system](/images/system-10.jpg)
+
+
 ### Dependencies:
 * Java: 8
 * Scala: 2.13
