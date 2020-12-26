@@ -1,23 +1,23 @@
 ## Systems and pipelines in Java for Big Data engineering and science using Machine Learning & Natural Language Processing
 
-### Java pipelines for: 
-- Text analysis, 
-- n-gram analysis, 
-- text corpus analysis, 
-- keyword analysis, 
-- OpenNLP analysis, 
-- keyword ranking, 
-- ML data analysis, 
-- sentiment data deep learning, 
-- sentiment text deep learning, 
-- convolutional net analysis, 
-- coreNLP analysis, 
-- self-organizing map clustering, 
-- ML data analysis with Scala and Python, 
-- speech communication, 
-- cloud: Amazon & Azure, 
-- Java Embedded Python (running Python code inside the Java application), 
-- integrated Python in Scala code, ...
+### Java pipelines: 
+- Pipelines for Text Analysis, 
+- Pipelines for n-gram analysis, 
+- Pipelines for Text Corpus Analysis, 
+- Pipelines for Keyword Analysis, 
+- Pipelines for OpenNLP analysis, 
+- Pipelines for Keyword Ranking, 
+- Pipelines for ML data analysis, 
+- Pipelines for Sentiment Data Deep Learning, 
+- Pipelines for Sentiment Text Deep Learning, 
+- Pipelines for Convolutional Net Analysis, 
+- Pipelines for coreNLP Analysis (StanfordNLP), 
+- Pipelines for Self-Organizing Map Clustering, 
+- Pipelines for ML data analysis with Scala and Python, 
+- Pipelines for speech communication, 
+- Pipelines for cloud: Amazon & Azure, 
+- Pipelines for Java Embedded Python (running Python code inside the Java application), 
+- Pipelines for integrated Python in Scala code, ...
 
 **Keyword ranking:**
 
@@ -30,7 +30,6 @@
 **Sentiment text Deep Learning:**
 
 ![system](/images/system-10.jpg)
-
 
 ### Dependencies:
 * Java: 8
@@ -48,4 +47,3 @@
 ### Project features: 
 * Spark: spark-core_2.12, spark-sql_2.12
 * build plugins: maven-compiler-plugin, maven-assembly-plugin
-
